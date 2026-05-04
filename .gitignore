@@ -1,0 +1,15 @@
+# Environments
+.env
+venv/
+env/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Database
+assistant.db
+assistant.db-journal
+
+# OS files
+.DS_Store
+Thumbs.db
